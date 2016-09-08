@@ -1,0 +1,57 @@
+Company Description
+
+What's the company's name?
+Paintco.
+
+
+ How many locations do they have?
+4
+
+
+ How many employees? 
+30
+
+
+
+What do they sell or
+how do they generate revenue? 
+Hardware, home and art appliances.
+What this company does is give competitive edge prices to those in a similar business. We think what you use
+ expresses you and how it's used should show that.
+
+
+Give an estimate of their gross annual revenue using logic similar to that used
+by the Drake Equation that we discussed in class. Every company has some notion of a transaction, i.e. some
+set of operations that constitute the accomplishment of an objective or task. Examples of such transactions that
+drive a company's business operations are the sale of a retail item, an event ticket sale, a trouble ticket for
+technical support, a service of some kind like a trip by taxi or a lesson, a book loan, etc. This notion of
+transaction will permeate your design project, so clarify how it applies to your company. 
+
+
+
+What are the
+transactions that drive your company's operations? 
+
+
+
+How many of each type occurs per day?
+
+
+
+ What data
+archiving and throughput requirements characterize your company? 
+
+
+
+
+A client is someone who seeks your
+company's services. You are in business to serve your clients. 
+
+
+Identify who the clients are of your company's
+business? 
+Peo
+
+
+A supplier is a person or organization that your company relies on to do business. Who are your
+company's suppliers? 
