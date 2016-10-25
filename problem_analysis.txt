@@ -1,10 +1,12 @@
 19. Envision the way the company does business now, i.e. before this system is in place. With respect to this 
 preexisting situation, list at least five problems with the current state of affairs that would be solved or improved
 by the proposed system.
+-We need more people willing to work with us. With this online system, we can get more visibility.
+-With more visibility, we can offer more online deals to encourage more people to use our system to hire our workers
+-Our workers would get more hands on experience and pay be potentially be hired for by those customers.
+-We want to do programs for those who want to work with us, encourage the incentives
+--It would help streamline the process as to how our business works and increase our bottom line
 
-20. For each problem, provide a 
-system improvement objective
- that would be accomplished and that would be 
-measurable in some objective way. Refer to our text for discussion of what good examples of system 
-improvement objectives
+20. For each problem, provide a system improvement objective that would be accomplished and that would be 
+measurable in some objective way. Refer to our text for discussion of what good examples of system improvement objectives
  are.
