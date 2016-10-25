@@ -61,6 +61,7 @@ if anyone can sub in for them, deals, etc.
 
 
 11) Provide the logic behind your estimate of throughput.
+We don't think we'll get that many customers at first.
 
 
 
