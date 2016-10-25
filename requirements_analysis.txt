@@ -1,0 +1,16 @@
+21. Describe between two and four functional requirements that will fulfill the needs of clients.
+
+
+22. Describe between two and four functional requirements that will fulfill the needs of suppliers.
+
+
+
+23. Describe between two and four functional requirements that will help someone administer the proposed 
+information system.
+
+
+
+
+24. Describe between two and four functional requirements that will help analyze the quality of the company’s 
+operations and inform strategic decisions.
+(NB: a minimum of twelve total functional requirements must be specified.)

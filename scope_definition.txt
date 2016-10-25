@@ -1,0 +1,19 @@
+14. What information system is being proposed to be designed?
+An online work-for-hire system where people can order who they need for installation and when.
+
+
+15. Describe why the company needs it and why the company would be better off after it is in place.
+Because it would better get the word out aboutwhat kind of people can do what services you want, 7 days a week. Depending on the level of
+professionality, these guys love what they do  and through us, they could get more work done than they could alone or with another company.
+
+
+16. Provide an estimate of how long it will take to design, implement, and install it.
+I think around several weeks, about a week or so at minimum.
+
+
+17. Provide an estimate of how much will the system design, implementation, and installation cost?
+$50,000
+
+
+18. Provide an estimate of how many people will be needed to carry out everything?
+3-5 people to set up everything.

@@ -1,0 +1,79 @@
+1) What's the company's name?
+Paintco.
+
+
+2. How many locations do they have?
+Just 1
+
+
+3. How many employees comprise the entire organization?
+25 Employees
+
+
+4. Provide the logic you used to estimate the total number of employees.
+It's based on factors like availability in the area, someone who can manage the systems as to who goes to where and making sure there's a steady stream of
+new customers online.
+
+
+
+
+
+
+5) What do they sell or
+how do they generate revenue? 
+
+
+Dealing with artistry and hardware talent, clients can hire professional or freelance workers depending on the job and what they need, 
+depending on whether they need something physical or a more hands on approach. As this is commission based and based on ratings,
+ the user must decide who they want and a cut of the proceeds go to the company itself and to those hired.
+
+
+6)Give an estimate of their gross annual revenue
+
+
+Probably about 100-200k a year?
+
+
+ 
+7) What are the
+transactions that drive your company's operations? 
+We want to encourage our users to continue looking at our company  so we’d like to offer a 10% referral deal and seasonal offers
+ to attract more customers. How the company works is that for we can offer high quality work from people who are passionate about what they do for a modest rate.
+Online commissioned based work on a per-hire basis. Ratings and performance will be evaluated.
+
+
+
+
+8) How many of each type occurs per day?
+Well all the work is on a per hire basis but depending whether it deals with installation, physical labor or artistry, there will be several of those kinds.
+There would probably be 10 at most, our employees need breaks and nourishment too while working for our clients.
+
+
+9) Provide the logic behind your estimate of the number of transactions.
+It's based on real world factors  such as the seasons, what kind of service will people most likely want on a given day, how our workers are feeling and
+if anyone can sub in for them, deals, etc.
+
+
+10) What is the throughput of your system in bytes per second?
+
+
+24kbs?
+
+
+11) Provide the logic behind your estimate of throughput.
+We don't think we'll get that many customers at first.
+
+
+
+
+12) 12. A client is someone who seeks your company's services. You are in business to serve your 
+clients. Identify who the clients are of your company's business?
+We are in business to service our customers with work from people who care about what they do.
+People who would need installation, physical labor or artwork done. That would usually be small companies or individual customers who can’t afford much more from other companies.
+
+
+
+
+13) A supplier is a person or organization that your company relies on to do business. Who are your
+company's suppliers? 
+Lapsed workers from competition, college-age students who need a decent job that’ll allow them to practice their work, etc.
