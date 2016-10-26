@@ -3,11 +3,11 @@ Paintco.
 
 
 2. How many locations do they have?
-Just 1
+7 locations: 3 in Brooklyn, 2 in Manhattan, and 2 in Queens
 
 
 3. How many employees comprise the entire organization?
-25 Employees
+23 employees/location x 7 locations = 161 employees
 
 
 4. Provide the logic you used to estimate the total number of employees.
@@ -19,8 +19,7 @@ new customers online.
 
 
 
-5) What do they sell or
-how do they generate revenue? 
+5) What do they sell or how do they generate revenue? 
 
 
 Dealing with artistry and hardware talent, clients can hire professional or freelance workers depending on the job and what they need, 
@@ -35,8 +34,12 @@ Probably about 100-200k a year?
 
 
  
-7) What are the
-transactions that drive your company's operations? 
+7) What are the transactions that drive your company's operations? 
+
+One example of a transaction is a client request for work completed. 
+
+
+
 We want to encourage our users to continue looking at our company  so we’d like to offer a 10% referral deal and seasonal offers
  to attract more customers. How the company works is that for we can offer high quality work from people who are passionate about what they do for a modest rate.
 Online commissioned based work on a per-hire basis. Ratings and performance will be evaluated.
@@ -63,7 +66,15 @@ if anyone can sub in for them, deals, etc.
 11) Provide the logic behind your estimate of throughput.
 We don't think we'll get that many customers at first.
 
+Request for work ~ 50 words = 50 words x 5 letters/word = 250 characters or 250 bytes
+Worker contacted : 250 bytes
+Worker bills system: 250 bytes
+System bills client: 250 bytes
+Total: 1000 bytes/job
 
+35 jobs/day, so we have 1000 bytes/job x 35 jobs/day = 35000 bytes/day
+
+So we probably don't need more than one server
 
 
 12) 12. A client is someone who seeks your company's services. You are in business to serve your 
