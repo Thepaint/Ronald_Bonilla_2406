@@ -1,5 +1,5 @@
 ﻿1) What's the company's name?
-Paintco. Edit
+Paintco. 
 
 
 2. How many locations do they have?
@@ -37,6 +37,8 @@ Probably about 100-200k a year?
 7) What are the transactions that drive your company's operations? 
 
 One example of a transaction is a client request for work completed. 
+Another example is putting in the request order in from our client for our workers.
+The order received and the order given will be exchanged on the network to process.
 
 
 
@@ -49,7 +51,7 @@ Online commissioned based work on a per-hire basis. Ratings and performance will
 
 8) How many of each type occurs per day?
 Well all the work is on a per hire basis but depending whether it deals with installation, physical labor or artistry, there will be several of those kinds.
-There would probably be 10 at most, our employees need breaks and nourishment too while working for our clients.
+There would probably be 35 at most, our employees need breaks and nourishment too while working for our clients.
 
 
 9) Provide the logic behind your estimate of the number of transactions.
@@ -60,7 +62,7 @@ if anyone can sub in for them, deals, etc.
 10) What is the throughput of your system in bytes per second?
 
 
-24kbs?
+250 bytes .
 
 
 11) Provide the logic behind your estimate of throughput.
