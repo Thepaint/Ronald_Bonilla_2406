@@ -1,0 +1,47 @@
+CST 2406 – Systems Design and Analysis – Homework 1
+
+
+Git workflow scenarios – In each scenario assume the user name is squash_addict and the
+repository name is called ramy_ashour_2406. Give the exact commands required in each scenario.
+
+
+Scenario 1: no flashdrive, using a public computer. Assuming a github repository already exists,
+explain the steps necessary to modify a file that already exists in the repository.
+-Modify file
+-git add file
+-git commit -m "______"
+-git push
+
+
+
+Scenario 2: using a private computer. Assuming a github repository already exists but isn’t currently
+on the laptop in question, explain the steps necessary to remove a file from the project.
+-git rm
+-git commit -m 
+-git push
+
+
+Scenario 3: copy of repository on flashdrive, using a public computer. Assuming you already have
+a copy of your repository on a flashdrive, explain the steps necessary to add a new file to the project.
+-Install client
+-git clone url
+-adding new file
+-git add file 
+-git commit -m
+-git push
+
+
+Scenario 4: two or more private computers, multiple participants. Assuming a github repository
+exists on several private computers and is being modified by various participants over time, explain the
+steps necessary for you to modify a file in the project. Assume that you’ve just been notified by one of
+your team members that they’ve just updated the project.
+-Add collaborator's username
+
+
+
+
+PERT: Create a PERT which illustrates the tasks that you’ll need to complete for your class project,
+including estimations of most likely duration as described in class and in the text.
+
+
+Gantt: Create a Gantt which illustrates the tasks that you’ll need to complete for your class project.
