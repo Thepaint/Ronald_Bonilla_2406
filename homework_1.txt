@@ -35,7 +35,12 @@ Scenario 4: two or more private computers, multiple participants. Assuming a git
 exists on several private computers and is being modified by various participants over time, explain the
 steps necessary for you to modify a file in the project. Assume that you’ve just been notified by one of
 your team members that they’ve just updated the project.
--Add collaborator's username
+-Modify file
+-git add file
+-git commit -m "______"
+-git push
+
+
 
 
 
