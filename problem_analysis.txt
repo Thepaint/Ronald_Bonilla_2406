@@ -4,10 +4,12 @@ by the proposed system.
 -We need more people willing to work with us. With this online system, we can get more visibility.
 -With more visibility, we can offer more online deals to encourage more people to use our system to hire our workers
 -Our workers would get more hands on experience and pay be potentially be hired for by those customers.
--We want to do programs for those who want to work with us, encourage the incentives
---It would help streamline the process as to how our business works and increase our bottom line
+-We want to do programs for those who want to work with us, encourage the incentives.
+--It would help streamline the process as to how our business works and increase our bottom line.
 
 20. For each problem, provide a system improvement objective that would be accomplished and that would be 
 measurable in some objective way. Refer to our text for discussion of what good examples of system improvement objectives
  are.
- hmmm
+How do we get more people to work with our company? We promote ourselves with our new online system
+How can we offer better online deals? We compare between fresh and older talent.
+How do users make posts of what tasks they want? We enable shorthand descriptions and tags.

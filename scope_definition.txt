@@ -8,12 +8,19 @@ professionality, these guys love what they do  and through us, they could get mo
 
 
 16. Provide an estimate of how long it will take to design, implement, and install it.
-I think around several weeks, about a week or so at minimum.
+Several weeks, most likely 4.
+It would take 5-9 days to design it.
+Implementation should take 8-14
+Installation should take 4-8 days.
 
 
 17. Provide an estimate of how much will the system design, implementation, and installation cost?
-$50,000
+A small group for designing the project should take around $15,000.
+To implement should take around $25,000
+Installation to take around $20,000
 
 
 18. Provide an estimate of how many people will be needed to carry out everything?
-3-5 people to set up everything.
+4 people for design.
+5 for implementation 
+3 for installation.

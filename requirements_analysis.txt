@@ -1,12 +1,22 @@
 21. Describe between two and four functional requirements that will fulfill the needs of clients.
+Clients should be able to make accounts.
+Clients should be able to make detailed descriptions about their tasks.
+Clients should have the choice in hiring certain suppliers.
 
 
 22. Describe between two and four functional requirements that will fulfill the needs of suppliers.
+Suppliers can put in their hours and whether they're free to work.
+Suppliers can put in the conditions and their expertise level.
+What rates will suppliers be paid for.
 
 
 
 23. Describe between two and four functional requirements that will help someone administer the proposed 
 information system.
+What would be our expected traffic?
+Do we have enough servers?
+Can we help with technical support in matchmaking?
+
 
 
 
@@ -14,3 +24,7 @@ information system.
 24. Describe between two and four functional requirements that will help analyze the quality of the company’s 
 operations and inform strategic decisions.
 (NB: a minimum of twelve total functional requirements must be specified.)
+How many users are signing up?
+How many users are active?
+What are the average numbers of suppliers (employees) being signed up for any given task?
+How many suppliers are being hired for a full-time jobs?
