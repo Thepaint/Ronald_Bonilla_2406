@@ -1,23 +1,53 @@
 28. Estimate the technical feasibility of the proposed system.
+How fast can we get the system up and running.
+A contracted hire based service where you 
+make a tagged based case with a description and put in a certain
+amount of people you want for the job as to which you may hire
+ for yourselves.
+
 
 
 
 
 29. Estimate the operational feasibility of the proposed system.
-
+Can my company work the way it does? 
+What if a contractor tried to hire more than 6 people for the job?
+What to do when there's an invalid address
+How do we get people to join our cause?
+Will our brand of business do well?
+Is there demand for this kind of work?
 
 
 
 
 30. Estimate the economic feasibility of the proposed system.
-
+How much money will the system make.
+So we intend to have different workers who chances are
+want to get more experience or do have it but want to
+have a more independent approach to the job market.
+It's contracted work so let's say 55% percent of case 
+goes to the workers to get the ball rolling and there's hourly rates 
+as to how long a job takes so let's say 8 hours at $12 which would bring
+a worker to $96 plus the 55% commission rate would bring a worker to
+$148.8 per case.  Workers getting hired cut a bit into profits since, they're
+making money for us but however we want to discourage too many workers
+working on one case.
 
 
 
 
 31. Estimate the schedule feasibility of the proposed system.
+How long will it take to develop?
+Current estimates say about 4 weeks to get everything
+done from designing to implementation.
+Assuming everything goes right,we could finish ahead 
+of time by a week if there's no delays, holidays, illness, or 
+system failure. However if the absolute worst were to happen
+all the time, the project could end up being delayed by several
+weeks (1-2 weeks off schedule)
 
 
 
 
 32. Do these feasibility estimates describe a system which corresponds to that described in the scope definition?
+Personally, it may need a bit more refinement.
