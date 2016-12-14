@@ -1,2 +1,13 @@
 36. Describe at least ten ways of testing the various functional requirements that the system provides. This 
 follows from our discussion of test driven development (TDD)
+-Can I fill in orders properly?
+-How many orders at a time can be made
+-Can I go over a certain limit of workers?
+-How big are descriptions?
+-Can the user/employee register?
+-Does the system know where to set locations?
+-can the client hire the worker?
+-If so, how many?
+-How long can a task be?
+-Is billing working correctly?
+-
