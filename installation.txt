@@ -1,2 +1,7 @@
 37. Provided a complete description of how the finished product is meant to be used in terms of its functional 
 requirements.
+
+Well, the user should be able to register for an account and hire contracted workers to do a job 
+of their choosing after describing what it is and where it'll be with taking account as to how many
+do they want for the task. After the task is completed, the client is then billed for their use of the
+service and if they want, they may hire some of the workers to have full-time jobs of their own.
